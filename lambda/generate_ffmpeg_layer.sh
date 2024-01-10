@@ -12,4 +12,6 @@ cp ffmpeg-4.3.1-amd64-static/ffmpeg ffmpeg/bin/
 
 cd ffmpeg
 
+pip install ffmpeg-python -t python
+
 zip -r ../ffmpeg.zip .
