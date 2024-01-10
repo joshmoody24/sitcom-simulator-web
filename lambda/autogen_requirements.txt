@@ -23,4 +23,4 @@ termcolor==2.4.0
 tiktoken==0.5.2
 tqdm==4.66.1
 typing_extensions==4.9.0
-urllib3==2.1.0
+urllib3<2
