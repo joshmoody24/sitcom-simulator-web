@@ -1,0 +1,1 @@
+Files in this directory are associated with lambda functions like sitcom-simulator-script-generator.
